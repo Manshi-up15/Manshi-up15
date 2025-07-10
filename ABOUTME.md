@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Manshi-up15
-- 👀 I’m interested in Exploring new places
-- 🌱 I’m currently pursuing BTECH- CSE CORE from SRM KTR
-- 📫 How to reach me - Insta handle:- Sainigirl_up15 
-- ⚡ Fun fact: Am state level volleyball player.
+<h2 align="center">hi 👋 i'm manshi</h2>
+<p align="center">💻 computer science student | 🌸 beginner coder + designer | 🌱 learning one step at a time</p>
 
-<!---
-Manshi-up15/Manshi-up15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 about me
+- 🎓 b.tech cse @ srm university  
+- 🧠 curious about ai, design, and tech  
+- ✨ learning java, ui/ux, and building fun things  
+- 🎯 dream: create stuff that actually helps people  
+
+### 🛠️ tech stack
+languages:   java, c++, html, css (beginner)
+tools:       figma, canva, adobe express, capcut
+version ctrl: git & github
